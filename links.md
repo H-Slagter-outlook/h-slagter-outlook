@@ -7,7 +7,7 @@
 - [Search Engine for the Internet of Everything][link07]
 - [Attack Surface Management][link08]
 - [Way Back Machine: Internet Archive][link09]
-- [Recon-ng: Internet Archive][link10]
+- [Recon-ng][link10]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
