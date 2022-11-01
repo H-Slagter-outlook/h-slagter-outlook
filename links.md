@@ -8,6 +8,7 @@
 - [Attack Surface Management][link08]
 - [Way Back Machine: Internet Archive][link09]
 - [Recon-ng][link10]
+- [Maltego][link11]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -19,3 +20,4 @@
 [link08]: https://search.censys.io/
 [link09]: https://archive.org/web/
 [link10]: https://github.com/lanmaster53/recon-ng/
+[link11]: https://www.maltego.com/
