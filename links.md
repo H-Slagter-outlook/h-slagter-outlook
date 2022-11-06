@@ -9,6 +9,7 @@
 - [Way Back Machine: Internet Archive][link09]
 - [Recon-ng][link10]
 - [Maltego][link11]
+- [AZ-400 Labs][link12]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -21,3 +22,4 @@
 [link09]: https://archive.org/web/
 [link10]: https://github.com/lanmaster53/recon-ng/
 [link11]: https://www.maltego.com/
+[link12]: https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
