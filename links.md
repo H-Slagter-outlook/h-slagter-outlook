@@ -10,6 +10,7 @@
 - [Recon-ng][link10]
 - [Maltego][link11]
 - [Microsoft Learning with Labs on GitHub][link12]
+- [Microsoft 365 Licensing][link13]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -23,3 +24,4 @@
 [link10]: https://github.com/lanmaster53/recon-ng/
 [link11]: https://www.maltego.com/
 [link12]: https://github.com/MicrosoftLearning/
+[link13]: https://m365maps.com/
