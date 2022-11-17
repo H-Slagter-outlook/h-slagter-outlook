@@ -11,6 +11,7 @@
 - [Maltego][link11]
 - [Microsoft Learning with Labs on GitHub][link12]
 - [Microsoft 365 Licensing][link13]
+- [Microsoft Win32 Intune Content Prep Tool][link14]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -25,3 +26,4 @@
 [link11]: https://www.maltego.com/
 [link12]: https://github.com/MicrosoftLearning/
 [link13]: https://m365maps.com/
+[link14]: https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool
