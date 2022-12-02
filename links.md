@@ -15,6 +15,8 @@
 - [Poerline on GitHub][link15]
 - [Tutorial: Set up a custom prompt for PowerShell or WSL with Oh My Posh][link16]
 - [How to make a pretty prompt in Windows Terminal with Powerline, Nerd Fonts, Cascadia Code, WSL, and oh-my-posh][link17]
+- [Define resources with Bicep, ARM templates, and Terraform AzAPI provider][link18]
+
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -33,3 +35,4 @@
 [link15]: https://github.com/powerline/powerline
 [link16]: https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
 [link17]: https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh
+[link18]: https://learn.microsoft.com/en-us/azure/templates/
