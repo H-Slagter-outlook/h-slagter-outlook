@@ -17,6 +17,7 @@
 - [How to make a pretty prompt in Windows Terminal with Powerline, Nerd Fonts, Cascadia Code, WSL, and oh-my-posh][link17]
 - [Define resources with Bicep, ARM templates, and Terraform AzAPI provider][link18]
 - [Azure Cloud & AI Domain Blog][link19]
+- [Microsoft 365 Adminn blog][link20]
 
 
 [link02]: https://pandoc.org/
@@ -38,3 +39,4 @@
 [link17]: https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh
 [link18]: https://learn.microsoft.com/en-us/azure/templates/
 [link19]: https://azurecloudai.blog/
+[link20]: https://m365admin.handsontek.net/
