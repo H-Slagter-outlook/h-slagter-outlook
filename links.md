@@ -18,6 +18,7 @@
 - [Define resources with Bicep, ARM templates, and Terraform AzAPI provider][link18]
 - [Azure Cloud & AI Domain Blog][link19]
 - [Microsoft 365 Adminn blog][link20]
+- [Azure Weekly][link21]
 
 
 [link02]: https://pandoc.org/
@@ -40,3 +41,4 @@
 [link18]: https://learn.microsoft.com/en-us/azure/templates/
 [link19]: https://azurecloudai.blog/
 [link20]: https://m365admin.handsontek.net/
+[link21]: https://azureweekly.info/
