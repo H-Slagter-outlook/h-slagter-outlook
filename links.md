@@ -19,6 +19,7 @@
 - [Azure Cloud & AI Domain Blog][link19]
 - [Microsoft 365 Adminn blog][link20]
 - [Azure Weekly][link21]
+- [Working on Azure blog posts][link22]
 
 
 [link02]: https://pandoc.org/
@@ -42,3 +43,4 @@
 [link19]: https://azurecloudai.blog/
 [link20]: https://m365admin.handsontek.net/
 [link21]: https://azureweekly.info/
+[link22]: https://www.sadukie.com/
