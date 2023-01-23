@@ -20,6 +20,7 @@
 - [Microsoft 365 Adminn blog][link20]
 - [Azure Weekly][link21]
 - [Working on Azure blog posts][link22]
+- [LucidChart, etc][link23]
 
 
 [link02]: https://pandoc.org/
@@ -44,3 +45,4 @@
 [link20]: https://m365admin.handsontek.net/
 [link21]: https://azureweekly.info/
 [link22]: https://www.sadukie.com/
+[link23]: https://lucid.co/
