@@ -21,6 +21,7 @@
 - [Azure Weekly][link21]
 - [Working on Azure blog posts][link22]
 - [LucidChart, etc][link23]
+- [OAuth][link24]
 
 
 [link02]: https://pandoc.org/
@@ -46,3 +47,4 @@
 [link21]: https://azureweekly.info/
 [link22]: https://www.sadukie.com/
 [link23]: https://lucid.co/
+[link24]: https://www.oauth.com/
