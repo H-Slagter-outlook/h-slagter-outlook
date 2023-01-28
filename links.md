@@ -22,6 +22,7 @@
 - [Working on Azure blog posts][link22]
 - [LucidChart, etc][link23]
 - [OAuth][link24]
+- [Google OAuth Playground][link25]
 
 
 [link02]: https://pandoc.org/
@@ -48,3 +49,4 @@
 [link22]: https://www.sadukie.com/
 [link23]: https://lucid.co/
 [link24]: https://www.oauth.com/
+[link25]: https://developers.google.com/oauthplayground/
