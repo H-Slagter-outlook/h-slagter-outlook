@@ -25,7 +25,7 @@
 - [Google OAuth Playground][link25]
 - [OAuth 2.0 Playground][link26]
 - [Okta Developer Portal][link27]
-- [Oauth App libraries][lnik28]
+- [Oauth App libraries][link28]
 
 
 [link02]: https://pandoc.org/
