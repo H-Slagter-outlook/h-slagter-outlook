@@ -23,6 +23,7 @@
 - [LucidChart, etc][link23]
 - [OAuth][link24]
 - [Google OAuth Playground][link25]
+- [OAuth 2.0 Playground][link26]
 
 
 [link02]: https://pandoc.org/
@@ -50,3 +51,4 @@
 [link23]: https://lucid.co/
 [link24]: https://www.oauth.com/
 [link25]: https://developers.google.com/oauthplayground/
+[link26]: https://oauth.com/playground/
