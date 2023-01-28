@@ -24,6 +24,7 @@
 - [OAuth][link24]
 - [Google OAuth Playground][link25]
 - [OAuth 2.0 Playground][link26]
+- [Okta Developer Portal][link27]
 
 
 [link02]: https://pandoc.org/
@@ -52,3 +53,4 @@
 [link24]: https://www.oauth.com/
 [link25]: https://developers.google.com/oauthplayground/
 [link26]: https://oauth.com/playground/
+[link27]: https://developer.okta.com/
