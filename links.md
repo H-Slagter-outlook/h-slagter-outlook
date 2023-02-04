@@ -26,6 +26,7 @@
 - [OAuth 2.0 Playground][link26]
 - [Okta Developer Portal][link27]
 - [Oauth App libraries][link28]
+- [Microsoft identity platform documentation][link29]
 
 
 [link02]: https://pandoc.org/
@@ -56,3 +57,4 @@
 [link26]: https://oauth.com/playground/
 [link27]: https://developer.okta.com/
 [link28]: https://appauth.io/
+[link29]: https://learn.microsoft.com/en-us/azure/active-directory/develop/
