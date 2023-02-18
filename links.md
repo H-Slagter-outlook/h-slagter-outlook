@@ -27,6 +27,7 @@
 - [Okta Developer Portal][link27]
 - [Oauth App libraries][link28]
 - [Microsoft identity platform documentation][link29]
+- [ARM template test toolkit][link30]
 
 
 [link02]: https://pandoc.org/
@@ -58,3 +59,4 @@
 [link27]: https://developer.okta.com/
 [link28]: https://appauth.io/
 [link29]: https://learn.microsoft.com/en-us/azure/active-directory/develop/
+[link30]: https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/test-toolkit
