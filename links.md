@@ -28,6 +28,7 @@
 - [Oauth App libraries][link28]
 - [Microsoft identity platform documentation][link29]
 - [ARM template test toolkit][link30]
+- [JMESPath, a query language for JSON][link31]
 
 
 [link02]: https://pandoc.org/
@@ -60,3 +61,4 @@
 [link28]: https://appauth.io/
 [link29]: https://learn.microsoft.com/en-us/azure/active-directory/develop/
 [link30]: https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/test-toolkit
+[link31]: https://jmespath.org/
