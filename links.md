@@ -29,7 +29,8 @@
 - [Microsoft identity platform documentation][link29]
 - [ARM template test toolkit][link30]
 - [JMESPath, a query language for JSON][link31]
-
+- [ARM visualizer][link32]
+- [Azure Tenant Security Solution (AzTS)][link33]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -62,3 +63,5 @@
 [link29]: https://learn.microsoft.com/en-us/azure/active-directory/develop/
 [link30]: https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/test-toolkit
 [link31]: https://jmespath.org/
+[link32]: http://armviz.io/designer
+[link33]: https://github.com/azsk/AzTS-docs
