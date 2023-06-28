@@ -31,6 +31,7 @@
 - [JMESPath, a query language for JSON][link31]
 - [ARM visualizer][link32]
 - [Azure Tenant Security Solution (AzTS)][link33]
+- [Snyk][link34]
 
 [link02]: https://pandoc.org/
 [link01]: https://hackmd.io/home/
@@ -65,3 +66,4 @@
 [link31]: https://jmespath.org/
 [link32]: http://armviz.io/designer
 [link33]: https://github.com/azsk/AzTS-docs
+[link34]: https://snyk.io/
